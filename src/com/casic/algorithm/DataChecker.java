@@ -1,4 +1,4 @@
-package com.casic;
+package com.casic.algorithm;
 
 import java.util.Arrays;
 import java.util.Random;
