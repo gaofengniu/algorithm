@@ -1,3 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 out
+out/production/algorithm/META-INF/
+out/production/algorithm/com/casic/algorithm/
+out/production/algorithm/com/casic/design/factory/
+out/production/algorithm/com/casic/design/singleton/
